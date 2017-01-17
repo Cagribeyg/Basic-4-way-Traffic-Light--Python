@@ -16,10 +16,6 @@ light14 = "Red"
 light15 = "Green"
 light16 = "Red"
 
-
-
-
-
 def first3_7_11_15():
     print("|\t\t\t\t\t|\t\t\t\t\t|\t\t\t\t\t|\t\t\t\t\t|")
     print("|\t\t\t\t\t|\t\t \t\t\t|\t\t\t\t\t|\t\t\t\t\t|")
